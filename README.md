@@ -15,3 +15,8 @@ dataset using Apache Spark 3.x.
 Pandas, Matplotlib, Seaborn, and Scikit Learn.
 1. utils.ipynb - A Jupiter notebook that is used in other notebooks and contains
 data visualization functions.
+
+[Open notebooks in Binder](https://mybinder.org/v2/gh/javaeeeee/MachineLearningNotebooks/HEAD)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/javaeeeee/MachineLearningNotebooks/HEAD)
